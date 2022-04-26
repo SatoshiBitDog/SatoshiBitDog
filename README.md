@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatoshiBitDog
 - 👀 I’m interested in Bitcoin and the Lightning Network
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Bitcoin open source, and entry level projects
+- 💞️ I’m looking to collaborate on Bitcoin, open source, and entry level projects
 - 📫 Reach me at SatoshiBitDog@gmail.com
 
 <!---
